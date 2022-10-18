@@ -1,0 +1,6 @@
+PUT http://localhost:5500/api/item/634d32dda74ec3d423d5b40a
+
+Content-Type: application/json
+{
+  "item": "sdsds"
+}
